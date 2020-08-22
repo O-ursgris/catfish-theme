@@ -1,0 +1,21 @@
+{
+    "name": "catfish-dark",
+    "displayName": "Catfish Dark",
+    "description": "Dark theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Catfish Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Catfish Dark-color-theme.json"
+            }
+        ]
+    }
+}
